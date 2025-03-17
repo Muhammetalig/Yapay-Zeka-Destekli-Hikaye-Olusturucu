@@ -29,7 +29,7 @@ Gereksinimler
 Kurulum
 1. Bu depoyu klonlayın:
 
-git clone https://github.com/[KullanıcıAdı]/gemini-hikaye-uretici.git
+git clone https://github.com/Muhammetalig/gemini-hikaye-uretici.git
 
 Gerekli bağımlılıkları yükleyin:
 
