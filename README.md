@@ -27,7 +27,6 @@ Gereksinimler
 - Android/iOS cihaz veya emülatör
 
 Kurulum
-
 1. Bu depoyu klonlayın:
 
 git clone https://github.com/[KullanıcıAdı]/gemini-hikaye-uretici.git
