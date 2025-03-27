@@ -53,5 +53,6 @@ Bu depoyu forklayın.
 Yeni bir feature branch oluşturun.
 Değişikliklerinizi yapın.
 Değişikliklerinizi commit edin ve pushlayın.
-Pull request oluşturun.
+Pull request oluşturun. 
+Teşekkürler
 
