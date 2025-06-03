@@ -4,7 +4,7 @@ Gemini Hikaye Üretici:
 
 Gemini Hikaye Üretici kullanıcının verdiği başlangıç cümlesine dayalı olarak yapay zeka yardımıyla hikayeler oluşturan bir Flutter uygulamasıdır. Uygulama, kullanıcıya bir başlangıç metni girme imkanı verir ve ardından Google'ın Gemini API'sini kullanarak özgün bir hikaye üretir. Ayrıca, kullanıcı hikayeyi dinlemek için sesli okuma özelliğini de kullanabilir.
 
-Özellikler
+Özellikler:
 
 - **Başlangıç Cümlesi ile Hikaye Üretme**: Kullanıcı bir başlangıç cümlesi girer, ve uygulama, bu cümleyi kullanarak özgün bir hikaye oluşturur.
 - **Sesli Okuma**: Üretilen hikaye, Flutter TTS (Text-to-Speech) kullanılarak sesli bir şekilde okunabilir. Kullanıcı, okuma sırasında duraklatma ve devam ettirme seçeneklerine sahiptir.
